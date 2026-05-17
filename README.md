@@ -1,1 +1,2 @@
-[] (https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybGlwMm9vb3oyN20xaWtwb3phN2JsMXd4N2NvejRxcnpudjlxZXZ6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F3JhKaucb9QqSF7bSS/200.gif)
+## hi
+![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/Colorful%20Futuristic%20Technology%20Poster.gif)
